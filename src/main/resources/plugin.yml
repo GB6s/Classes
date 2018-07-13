@@ -1,0 +1,8 @@
+name: Classes
+version: ${project.version}
+main: com.gb6.classes.Classes
+authors: [GB6]
+depend: [PlaceholderAPI]
+commands:
+  class:
+    description: "Default command for the Classes plugin"

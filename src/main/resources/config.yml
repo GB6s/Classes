@@ -1,0 +1,81 @@
+classes:
+  assassin:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  brewer:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  builder:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  butcher:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  farmer:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+    materials:
+      - WHEAT
+      - DIRT
+  fisherman:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  hunter:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  lumberjack:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  merchant:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  miner:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
+  stockman:
+    amounts:
+      1: 3
+      2: 6
+      3: 9
+    commands:
+      - "msg %player% Congratulations! You are now %level%!"
